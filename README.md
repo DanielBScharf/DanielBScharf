@@ -1,7 +1,7 @@
 # DanielBScharf
 Hello Everyone!
 
-<div id="image">
+<div id="image" border-radius="50%" width="350px" align="center">
   <img src="/meandpercy.jpeg">
 </div>
 
@@ -27,10 +27,3 @@ Top languages:
         <p class="col-sm-3">Python (previously studied)</p>
     </div>
   </div>
-
-
-<style>
-  img {
-    border-radius: 50%;
-  }
-</style>
