@@ -30,7 +30,7 @@ Top languages:
 
 
 <style>
-  #image {
+  img {
     border-radius: 50%;
   }
 </style>
