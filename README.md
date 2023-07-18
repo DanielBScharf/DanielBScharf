@@ -1,12 +1,10 @@
 # DanielBScharf
 Hello Everyone!
 
-Welcome to my github page, a magical (bland) place where you can see all of my amazing (meh) projects! I am Daniel Scharf a former university lecturer and administrator who realized that higher education isn't right for him, and instead decided to change careers and go into programming.
+Welcome to my github page, a magical (bland) place where you can see all of my amazing (meh) projects! I am Daniel Scharf a former university lecturer and administrator turned programmer.
 
-
-Top languages and technologies:
+### :hammer_and_wrench: Languages and Tools :
 <div>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original-wordmark.svg"  title="python" alt="python" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/ruby/ruby-original-wordmark.svg"  title="ruby" alt="ruby" width="40" height="40"/>&nbsp;
    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/rails/rails-original-wordmark.svg"  title="rails" alt="rails" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/heroku/heroku-original-wordmark.svg"  title="heroku" alt="heroku" width="40" height="40"/>&nbsp;
@@ -17,5 +15,9 @@ Top languages and technologies:
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original-wordmark.svg"  title="python" alt="python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
 </div>
+
+### :fire: My Stats :
+https://github-readme-streak-stats.herokuapp.com/?user=DanielBScharf
