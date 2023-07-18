@@ -1,10 +1,6 @@
 # DanielBScharf
 Hello Everyone!
 
-<div id="image" border-radius="50%" width="350px" align="center">
-  <img src="/meandpercy.jpeg">
-</div>
-
 Welcome to my github page, a magical (bland) place where you can see all of my amazing (meh) projects! I am Daniel Scharf a former university lecturer and administrator who realized that higher education isn't right for him, and instead decided to change careers and go into programming.
 
 
