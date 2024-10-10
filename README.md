@@ -1,7 +1,7 @@
 # DanielBScharf
 Hello Everyone!
 
-Welcome to my github page, a magical (bland) place where you can see all of my amazing (meh) projects! I am Daniel Scharf a former university lecturer and administrator turned programmer.
+Welcome to my github page, a magical (bland) place where you can see all of my amazing (meh) projects! I am Daniel Scharf a university administrator and lecturer who dabbles in programming.
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
